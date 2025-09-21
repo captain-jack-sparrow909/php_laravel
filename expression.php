@@ -1,3 +1,4 @@
 <?php
 
-echo "hello world\n";
+$name = "Alice";
+echo "hello ".$name."!\n";
